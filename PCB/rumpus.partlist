@@ -1,0 +1,105 @@
+Partlist
+
+Exported from rumpus-v2.brd at 28.03.16 12:32
+
+EAGLE Version 7.5.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part     Value            Package      Library            Position (mm)         Orientation
+
+C1       33p              C025-024X044 rcl                (16.08 55.77)         R180
+C2       33p              C025-024X044 rcl                (16.08 41.29)         R180
+C3       100n             C025-024X044 rcl                (17.11 59.42)         R90
+C4       100n             C025-024X044 rcl                (31.13 59.42)         R90
+C5       100u             E2,5-6       rcl                (14.11 36.02)         R90
+C6       470u             E5-10,5      rcl                (8.84 15.9)           R180
+C7       100n             C025-024X044 rcl                (12.72 30.51)         R0
+C8       100n             C025-024X044 rcl                (31.09 54.78)         R270
+C9       1u               E2,5-6       rcl                (28.43 11.88)         R90
+C10      1u               E2,5-6       rcl                (28.45 17.98)         R90
+C11      1u               E2,5-6       rcl                (34.37 17.88)         R90
+C12      1u               E2,5-6       rcl                (34.39 11.88)         R90
+C13      100u             E2,5-6       rcl                (55.9 10.3)           R270
+D+                        JP1          small-jumper       (18.82 33.72)         R0
+D-                        JP1          small-jumper       (21.3 33.7)           R0
+D1       1N4001           DO41-10      diode              (9.4 27.78)           R180
+D2       1N4001           DO41-10      diode              (16.2 16)             R270
+D3       3V6              ZDIO-2.5     diode              (23.2 10)             R0
+D4       3V6              ZDIO-2.5     diode              (23.2 12.3)           R0
+D5       1n4148           D-2.5        diode              (47.21 27.89)         R270
+D6       1n4148           D-2.5        diode              (49.09 27.89)         R270
+DFCS                      JP1          small-jumper       (47.32 34.7)          R180
+FET1                      JP1          small-jumper       (39.52 51.39)         R0
+FET2                      JP1          small-jumper       (34.4 51.39)          R0
+FET3                      JP1          small-jumper       (36.98 51.39)         R0
+FET4                      JP1          small-jumper       (42.06 51.39)         R0
+IC1      ATMEGA168-20P    DIL28-3      avr                (24.48 59.42)         R270
+IC2      7805             78XXS        v-reg              (9.54 21.68)          R180
+IC3      MAX232           DIL16        maxim              (47.76 18.46)         R180
+IC4      AT45DB041B       SOIC8        atmel-dataflash    (54.08 30.34)         R0
+IRLED                     LED5MM       lemonhead-special  (77.42 2.64)          R0
+IRRX                      JP1          small-jumper       (25.32 28.04)         R0
+IRTX                      JP1          small-jumper       (27.9 28.06)          R180
+ISP                       MA03-2       isp-socket         (7.34 62.16)          R90
+L1                        LED3MM       lemonhead-special  (44.33 76.37)         R0
+L2                        LED3MM       lemonhead-special  (44.36 70.77)         R0
+L3                        LED3MM       lemonhead-special  (44.39 65.07)         R0
+L4                        LED3MM       lemonhead-special  (44.44 59.61)         R0
+LED1                      JP1          small-jumper       (36.62 75)            R270
+LED2                      JP1          small-jumper       (36.62 72.42)         R270
+LED3                      JP1          small-jumper       (36.62 69.84)         R270
+LED4                      JP1          small-jumper       (36.62 67.26)         R270
+LSP1     LSP10            LSP10        solpad             (44.44 34.32)         R0
+LSP2     LSP10            LSP10        solpad             (45.44 44.9)          R0
+LSP3     LSP10            LSP10        solpad             (44.54 39.88)         R0
+LSP4     LSP10            LSP10        solpad             (44.54 29.36)         R0
+LSP5     LSP10            LSP10        solpad             (14.24 12.72)         R0
+MISO                      JP1          small-jumper       (7.44 44.02)          R270
+MOSI                      JP1          small-jumper       (7.44 41.46)          R270
+POTI                      JP1          small-jumper       (36.62 77.59)         R270
+PWR                       LED3MM       lemonhead-special  (16.25 63.96)         R90
+PWRSEL                    JP2          small-jumper       (7.62 34.26)          R90
+Q1       16mhz            HC49U-V      crystal            (16.32 48.81)         R270
+Q2       BD139            TO126AV      transistor-power   (70.09 9.1)           R0
+R1       100              0204V        rcl                (75.12 8.18)          R270
+R2       51R              0204V        rcl                (65.2 7.38)           R270
+R3       270              0204/7       rcl                (17.21 71.42)         R90
+R4       270              0204V        rcl                (41.53 76.46)         R90
+R5       270              0204V        rcl                (41.45 70.86)         R90
+R6       270              0204V        rcl                (41.47 64.96)         R90
+R7       270              0204V        rcl                (41.49 59.46)         R90
+R8                        0204V        rcl                (43.08 31.94)         R0
+R9                        0204V        rcl                (44.78 42.52)         R0
+R10                       0204V        rcl                (43.38 37.5)          R0
+R11      51               0204V        rcl                (23.2 14.5)           R0
+R12      51               0204V        rcl                (23.2 18.7)           R0
+R13      1k5              0204V        rcl                (23.2 20.8)           R180
+R14      1.1M             0204V        rcl                (23.2 16.6)           R180
+R15                       0204V        rcl                (43.18 26.88)         R0
+R16                       PT6-L        hd44780-pin-header (51.02 74.94)         R0
+R17      10k              0204V        rcl                (49.9 34.7)           R90
+RESET    MIKROTASTER6X6L  TASTER3301   hebw21-extern      (10.5 72.43)          R0
+RIN                       JP1          small-jumper       (7.43 54.16)          R270
+ROUT                      JP1          small-jumper       (7.43 51.58)          R270
+RX                        JP1          small-jumper       (26.46 33.66)         R0
+S1       MIKROTASTER6X6L  TASTER3301   hebw21-extern      (60.21 74.94)         R90
+S2       MIKROTASTER6X6L  TASTER3301   hebw21-extern      (70.21 74.89)         R90
+S3       MIKROTASTER6X6L  TASTER3301   hebw21-extern      (80.31 74.94)         R90
+S4       MIKROTASTER6X6L  TASTER3301   hebw21-extern      (90.21 74.99)         R90
+SCK                       JP1          small-jumper       (7.44 46.54)          R270
+SJ1                       SJ           small-jumper       (22.1 1.9)            MR180
+SPEAKER  BUZZER           BUZZER       routerboard        (64.87 15.73)         R270
+SPK                       JP1          small-jumper       (22.8 28)             R180
+SV1                       MA06-1       isp-socket         (44.95 10.3)          R180
+T1       N-CHANNEL-MOSFET TO220BV      mosfet-ansteuerung (35.38 30.88)         R180
+T2       N-CHANNEL-MOSFET TO220BV      mosfet-ansteuerung (35.38 40.24)         R180
+T3       N-CHANNEL-MOSFET TO220BV      mosfet-ansteuerung (35.38 35.6)          R180
+T4       N-CHANNEL-MOSFET TO220BV      mosfet-ansteuerung (35.38 26.16)         R180
+TX                        JP1          small-jumper       (23.88 33.66)         R0
+U$2      TSOP1738         TSOP17XX     tsop               (69.07 2.79)          R0
+U$3      HEBW21           HEBW21       hebw21-extern      (10.2 6.24)           R90
+USB      USB-SOCKETMINI-B USB-BWM      unzap-misc         (22.1 2)              R90
+USBPUD                    JP2          small-jumper       (18.31 26.81)         R90
+VCC                       JP1          small-jumper       (7.43 49.04)          R270
+X1                        F09HP        subd09-extern      (47.65 4.1)           R180

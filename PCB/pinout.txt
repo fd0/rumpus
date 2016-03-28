@@ -1,0 +1,22 @@
+PB0     PUD
+PB1     SPK
+PB2     ISP_RST
+PB3     MOSI/CH3
+PB4     MISO
+PB5     SCK
+
+PC0     S1
+PC1     S2
+PC2     S3
+PC3     S4/IR_IN
+PC4     LED1
+PC5     TRIMMPOTI
+
+PD0     RX
+PD1     TX
+PD2     D+
+PD3     LED2/CH4
+PD4     D-
+PD5     IR_OUT/CH2
+PD6     LED3/CH1
+PD7     LED4
