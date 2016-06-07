@@ -40,7 +40,7 @@
 
 /**
  * \file
- * Implementation of local continuations based on switch() statment
+ * Implementation of local continuations based on switch() statement
  * \author Adam Dunkels <adam@sics.se>
  *
  * This implementation of local continuations uses the C switch()
